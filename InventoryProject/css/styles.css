@@ -1,0 +1,19 @@
+body {
+	color: #404040;
+}
+
+.form-wrapper {
+	width: 90%;
+	max-width: 34rem;
+	margin: 2rem auto;
+}
+
+.accordion-wrapper {
+	width: 90%;
+	max-width: 40rem;
+	margin: 1.5rem auto;
+}
+
+.card-style {
+	max-width: 18rem;
+}
